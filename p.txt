@@ -1,0 +1,4 @@
+nardcompany123!@#
+databasename=nard
+nard
+namesite=nardwebsite
